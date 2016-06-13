@@ -1,0 +1,28 @@
+name: prueba2
+favicon: null
+layout_spectrum: 0.0049705202691257
+typography_spectrum: 0.5797337652184069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.48229081532917917
+  lightness: 0.7498599688988179
+  saturation: 0.8815281074494123
+  rhythmicContrast: 0.9308120640926063
+purpose: []
